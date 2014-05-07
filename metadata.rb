@@ -1,3 +1,4 @@
+name              "freetds"
 maintainer        "Finalist"
 maintainer_email  "iain@finalist.nl"
 license           "MIT"
